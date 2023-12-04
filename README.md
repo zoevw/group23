@@ -14,3 +14,6 @@ Vizualization - Elizabeth, Varun, Tsega, Hank
 <br><br>
 Conclusion - Tsega, Elizabeth
 <br><br>
+
+Project 2:
+Clean and Linear models: Mariah Hudson, Tsega Kidanu 
